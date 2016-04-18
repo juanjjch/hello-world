@@ -1,7 +1,7 @@
 USE [SAED]
 GO
 
-INSERT INTO [DETCuerpoEvaluacion]
+INSERT INTO [DETCuerpoEvaluacionP]
 	([TituloCuerpoEvaluacion],[DesCuerpoEvaluacion],[EsHistorico],[CodPeriodo],[CodCuerpoEvaluacionAnt],[TipoObjetivos])
      VALUES
            ('Objetivos de Calidad de Servicio/Liderazgo','','0',NULL,NULL,2)
