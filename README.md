@@ -1,2 +1,5 @@
 # hello-world
-Prueba inicial
+
+Esta es una prueba incial en GitHub.
+
+Es la prueba para creación y commit de cambios.
